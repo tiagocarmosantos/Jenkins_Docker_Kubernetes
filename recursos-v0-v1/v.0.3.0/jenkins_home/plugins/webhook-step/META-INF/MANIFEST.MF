@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Chris
+Build-Jdk: 1.7.0_71
+Extension-Name: webhook-step
+Specification-Title: Allows a pipeline to block until a webhook is cal
+ led by an external system.
+Implementation-Title: webhook-step
+Implementation-Version: 1.3
+Group-Id: org.jenkins-ci.plugins
+Short-Name: webhook-step
+Long-Name: Webhook Step Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Webhook+Step+Plugin
+Plugin-Version: 1.3
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: workflow-support:2.0,script-security:1.16
+Plugin-Developers: Chris Pitman:cpitman:cpitman1@gmail.com
+

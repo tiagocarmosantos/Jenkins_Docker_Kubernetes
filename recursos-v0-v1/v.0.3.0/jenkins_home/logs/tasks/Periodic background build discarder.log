@@ -1,0 +1,8 @@
+Started at Tue Apr 06 17:37:10 UTC 2021
+Processing JOB_A_SHORT
+Offering JOB_A_SHORT to Project Build Discarder
+Processing JOB_B_LONG
+Offering JOB_B_LONG to Project Build Discarder
+Processing JOB_C_TOOLONG
+Offering JOB_C_TOOLONG to Project Build Discarder
+Finished at Tue Apr 06 17:37:10 UTC 2021. 7ms
